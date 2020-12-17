@@ -22,6 +22,6 @@ Exract `BetterDonationRewards` and place into one of your resource folders
 
 In your `server.cfg` place `start BetterDonationRewards` 
 
-Edit the `server.lua` to your liking
+Edit the `server.lua` to place your webhook and configure your role list/rewards
 
 Restart your server and your good to go.
