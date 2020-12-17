@@ -395,7 +395,7 @@ AddEventHandler('PatreonDonatorPerks:GiveMoney', function(amount)
 							['@rankPack'] = rankName
 						});
 					end
-					xPlayer.addAccountMoney('black_money', amount);
+					xPlayer.addAccountMoney('money', amount);
 					removeIndex = i;
 					break;
 				end
