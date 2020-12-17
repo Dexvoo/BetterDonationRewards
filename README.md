@@ -3,14 +3,13 @@
 This is a FiveM Script that i have adated from ( https://github.com/JaredScar/DiscordDonatorPerks )
 
 
-I have added 2 new features inclusing adding a webhook and recieving Items every 30 days.
+I have added 3 new features inclusing adding a webhook, Custom Font and recieving Items every 30 days.
 
 A big massive thanks to Jared https://github.com/JaredScar for writing the base of this script, Also this script is linked with his other resource  
 # Dependency
 https://github.com/JaredScar/Badger_Discord_API
 
-Join his discord and show him some love!
-https://discord.gg/MPy28qMV6j
+Go show him some love!
 
 # Instalation 
 
