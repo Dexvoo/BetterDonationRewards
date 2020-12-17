@@ -1,30 +1,19 @@
--------------------------------------
---- DiscordDonatorPerks by Badger ---
--------------------------------------
+-------------------------------------------------
+--- BetterDonationRewards by Badger And Dexvo ---
+-------------------------------------------------
 
 --- CONFIG ---
-local webhook = 'https://discord.com/api/webhooks/788956623459581972/5ANUH1FQHkL2rOG_UqXsCM08kRk0H3p3w-n6_1npnkhSoDArUHDbHX17VCPdqhoMLOZI'
+local webhook = ''
 roleList = {
-	{"Iron", 638821095176405012, {"100 Gems Voucher", {'Money', 100}} 
-	}, -- Iron Tier 
-	{"Gold", 638822168364580865, {"200 Gems Voucher",{'Money', 200}} 
-	}, -- Gold Tier 
-	{"Diamond", 638821558965764127, {"300 Gems Voucher",{'Money', 300}} 
-	}, -- Diamond Tier 
-	{"Quartz", 638821239015866369, {"350 Gems Voucher",{'Money', 300}} 
-	}, -- Quartz Tier 
-	{"God", 638822958680506388, {"150 Gems Voucher",{'Money', 150}} 
-	}, -- God Tier 
-	{"Booster", 714447115182669835, {"50 Gems Voucher",{'Money', 50}} 
-	}, -- Booster Tier 
-	{"money", 638819167872614450, {"100 Gems Voucher",{'Money', 100}} 
-	}, -- Staff Tier 
-	{"Job", 638819167872614450,
+--   RANK        DISCORD ID'S      DISCRIPTION   Money/Item/Job  Amount
+	{"FirstExample", 0, {"100 Money Voucher", {'Money', 100}} 
+	}, -- FirstExample Tier 
+	{"SecondExample", 0,
 		{"Invitation to Black Diamond Cartel [Gang]", {'Job', 'ambulance', 0}}	
-	}, -- Bronze Tier
-	{"Item", 638819167872614450, 
-		{" Testing ",{'Item','headlighty', 1}} 
-	}, -- Staff Tier 
+	}, -- SecondExample
+	{"ThirdExample", 0, 
+		{"You have a item",{'Item','yourchoiceofitem', 1}} 
+	}, -- ThirdExample
 }
 
 --- CODE ---
