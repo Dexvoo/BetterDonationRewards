@@ -13,9 +13,9 @@ https://discord.gg/MPy28qMV6j
 
 # Instalation 
 
-**MAKE SURE YOU HAVE BADGERS API INSTALLED**
-Insert `insert.sql` into your mysql database,
-Exract `BetterDonationRewards` and place into one of your resource folders
-In your `server.cfg` place `start BetterDonationRewards` 
-Edit the `server.lua` to your liking
+**MAKE SURE YOU HAVE BADGERS API INSTALLED**\n
+Insert `insert.sql` into your mysql database,\n
+Exract `BetterDonationRewards` and place into one of your resource folders\n
+In your `server.cfg` place `start BetterDonationRewards` \n
+Edit the `server.lua` to your liking\n
 Restart your server and your good to go.
